@@ -1,0 +1,4 @@
+.header-item:hover::after {
+    width: 100%;
+    transition: all 0.2s linear;
+}
