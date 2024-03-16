@@ -5,5 +5,5 @@ export { default as ProductDetailSlide } from './sliders/product-detail';
 export { default as collections } from './sliders/collections';
 export { default as CardConllection } from './cards/card-collection';
 export { default as CardSession } from './cards/card-session';
-export { default as Product } from './products/Product';
+export { default as Product } from './products/product';
 export { default as ProductCart } from './products/product-cart';
